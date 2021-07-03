@@ -1,0 +1,17 @@
+{
+    "name": "RTU",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "BepInEx.dll",
+        "StubbedAssembly-CSharp.dll",
+        "MMHOOK_Assembly-CSharp.dll",
+        "HGCSharpUtils.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

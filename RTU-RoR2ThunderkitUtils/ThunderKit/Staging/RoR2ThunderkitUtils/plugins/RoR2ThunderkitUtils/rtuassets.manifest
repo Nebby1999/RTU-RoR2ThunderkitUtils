@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1436318235
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 924d91099c301444590d3cf1a16ad73a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e1b1ce03bca4cec632116ab7d4a8d541
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: -281164913, guid: 06dd3d5416bf43ea368cc39ff96e6d5a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/RTU/AssetBundle/ContentPack.asset
+Dependencies: []
